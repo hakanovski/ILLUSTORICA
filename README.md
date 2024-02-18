@@ -1,1 +1,30 @@
-# ILLUSTORICA
+# # Illustorica
+
+Illustorica is an innovative mobile application that combines the power of AI-generated illustrations with news articles to create a visually engaging user experience. This app allows users to explore news through visuals and access articles by interacting with the generated artwork.
+
+## Features
+
+- **AI-Generated Illustrations**: Utilize AI to create visual thumbnails for news articles.
+- **News Exploration**: Users can explore news articles by interacting with the visuals, without initial text descriptions.
+- **Interactive Thumbnails**: Visuals serve as an interactive element, leading users to the associated news articles.
+
+## Technologies Used
+
+- **React Native**: A cross-platform framework that enables native Android and iOS app development with JavaScript.
+- **Expo**: An open-source platform for making universal native apps for Android and iOS with JavaScript and React.
+- **React Navigation**: Routing and navigation for Expo and React Native apps.
+- **AI Services**: Integration with AI services like DALL·E for generating illustrations based on news content.
+
+## Requirements
+
+- Node.js
+- npm or Yarn
+- Expo CLI
+- React Native CLI (Optional for bare React Native projects)
+- A text editor or IDE (e.g., Visual Studio Code)
+
+## Setup and Installation
+
+1. **Install Expo CLI**:
+   ```sh
+   npm install -g expo-cli
