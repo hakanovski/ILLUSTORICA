@@ -29,11 +29,6 @@ Illustorica is an innovative mobile application that combines the power of AI-ge
    ```sh
    npm install -g expo-cli
 
-Elbette, işte "Illustorica" projesi için gereken adımların Markdown (`README.md`) formatında dönüştürülmüş hali:
-
-```markdown
-## Setup and Installation
-
 2. **Initialize the project with Expo:**
    ```
    expo init Illustorica
