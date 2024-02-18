@@ -28,3 +28,37 @@ Illustorica is an innovative mobile application that combines the power of AI-ge
 1. **Install Expo CLI**:
    ```sh
    npm install -g expo-cli
+
+Elbette, işte "Illustorica" projesi için gereken adımların Markdown (`README.md`) formatında dönüştürülmüş hali:
+
+```markdown
+## Setup and Installation
+
+2. **Initialize the project with Expo:**
+   ```
+   expo init Illustorica
+   ```
+
+3. **Navigate to the project directory:**
+   ```
+   cd Illustorica
+   ```
+
+4. **Install dependencies:**
+   ```
+   npm install
+   ```
+   or
+   ```
+   yarn
+   ```
+
+5. **Start the development server:**
+   ```
+   expo start
+   ```
+
+## Running the App
+
+To run the app on your local machine, you can start the Expo development server by executing `expo start` and follow the on-screen instructions to open the app on an emulator or your physical device.
+```
