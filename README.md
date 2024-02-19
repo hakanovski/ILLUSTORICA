@@ -58,18 +58,10 @@ Illustorica is an innovative mobile application that combines the power of AI-ge
 To run the app on your local machine, you can start the Expo development server by executing `expo start` and follow the on-screen instructions to open the app on an emulator or your physical device.
 
 
+A comprehensive showcase of cutting-edge solutions and transformative outcomes. This collection of case studies demonstrates our client-centric approach and commitment to excellence in driving efficiency, innovation, and tangible benefits through Test Data Management and advanced data strategies. Each narrative is a testament to the strategic partnerships and technological prowess that deliver exceptional results and set new industry standards.
 
 
 
-Title: Kroger's Strategic Data Mastery: Revolutionizing Retail Delivery Through Advanced Testing
-
-Description: Kroger has catapulted its retail delivery services to new heights through a strategic partnership with Deloitte, focusing on the mastery of Test Data Management (TDM). This initiative has redefined Kroger's approach to data testing and governance, streamlining their processes and setting a new standard in retail operational excellence.
-
-Enhanced Benefits:
-- Drastic reduction in setup complications, with a 70% decrease in initialization issues.
-- An impressive surge in operational efficiency, marking a 75% increase in productivity through intelligent data integration strategies.
-- Reinforced data governance protocols, ensuring secure and compliant data handling.
-- Optimized test cycles, leading to faster deployment and a more agile response to market changes.
 ```
 
  
