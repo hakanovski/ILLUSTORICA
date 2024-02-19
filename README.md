@@ -57,3 +57,5 @@ Illustorica is an innovative mobile application that combines the power of AI-ge
 
 To run the app on your local machine, you can start the Expo development server by executing `expo start` and follow the on-screen instructions to open the app on an emulator or your physical device.
 ```
+
+Hello, I got your contact information from Siri Janya Prasad Gera. I am working with him on a Firm Initiative project and he mentioned that I could reach out to you regarding Client projects. I am currently on the Bench. It has been about 3 weeks. Do you know of any Client projects that I could join? Here, I am sharing my DPN profile with you. I hope there is a position you know of that matches my skill set. Currently, I have 3 Firm Initiative projects, but I also need to find a Client project. If you know of anything, I would really appreciate it if you could share it with me. I really need this Client project. Thank you very much for your time.
