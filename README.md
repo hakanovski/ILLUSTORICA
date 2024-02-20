@@ -58,8 +58,7 @@ Illustorica is an innovative mobile application that combines the power of AI-ge
 To run the app on your local machine, you can start the Expo development server by executing `expo start` and follow the on-screen instructions to open the app on an emulator or your physical device.
 
 
-An elite portfolio illustrating the forefront of innovation and transformative success. These case studies epitomize our dedication to client success, encapsulating our unwavering pursuit of operational excellence. They spotlight our proficiency in leveraging test data management and sophisticated data tactics to fuel efficiency, foster innovation, and secure palpable advancements. Each narrative is a distinct beacon of our strategic alliance and technical acumen, consistently setting the benchmark for industry excellence.
-
+Hello, I am now sharing the latest draft of this slide with you. I emphasized the percentage section more prominently, giving it a number-based effect. I've also made these numbers more catchy and embellished. Meanwhile, I've made the project descriptions more comprehensive and professional - at least I've tried to make them more comprehensive. Please review this new design and updated content again. By the way, I wrote these benefits and the description after reviewing the most recent proposal for Farmers Insurance, which was updated by Deepasa, in our team's TDM-related resources files. However, I could not find any percentage information related to Farmers Insurance in it. So, I kindly ask you, where can I find the percentages or numbers related to Farmers Insurance? Or do you have any other project or case study suggestions that I could use instead?
 
 ```
 
